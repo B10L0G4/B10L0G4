@@ -26,6 +26,6 @@
 <a href="https://www.linkedin.com/in/vanessacarraro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"align="center"></a>
 </div>
  
-![snake gif](https://github.com/B1olog4/B1olog4/.github/workflows/snakegame.yml@refs/heads/main)
+![snake gif](https://github.com/B1olog4/B1olog4/blob/output/github-contribution-grid-snake.gif)
 
 
