@@ -26,7 +26,8 @@ jobs:
           github_user_name: B1olog4 #Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-
+          
+      
       - run: git status
 
       # Para as atualizações.
@@ -44,4 +45,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+document.getElementById('myID').style.backgroundColor = 'black';
 
