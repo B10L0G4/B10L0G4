@@ -34,6 +34,6 @@
 </div>
    
  
-![snake gif](https://github.com/B1olog4/B1olog4/blob/output/github-contribution-grid-snake.gif/)
+// ![snake gif](https://github.com/B1olog4/B1olog4/blob/output/github-contribution-grid-snake.gif/)
 
 
