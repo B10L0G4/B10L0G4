@@ -1,6 +1,6 @@
  ### Olá Mundo ! Eu sou Vanessa Carraro. 
 
-- 🌱 Estudando: Python, Visão Computacional, JavaScript e Matemática...
+- 🌱 Estudando: Python, Visão Computacional, JavaScript e Matemática Aplicada...
 - 😄 Pronouns: ela/dela
 
 ##
