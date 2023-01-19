@@ -37,7 +37,6 @@
   ##
 
  <div>
-  <img align="center" height="28" width="160" src="https://wakatime.com/badge/user/399dc1a7-7184-4f7d-8eec-4c46414fbaaf.svg"/>
   <a href = "mailto:vanessacarraro@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"align="center" height="30" width="100"</a>
   <a href="https://www.linkedin.com/in/vanessacarraro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"align="center"  height="30" width="120" color="pink"</a>
 
